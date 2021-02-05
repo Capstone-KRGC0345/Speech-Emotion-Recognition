@@ -15,7 +15,7 @@ Objective
 Team Members
 
 Ashokraj K.
-Edara Rajkumar.
+Rajkumar Edara.
 Garine Saikiran.
 Sharon Bino.
 Sohith Naidu.
