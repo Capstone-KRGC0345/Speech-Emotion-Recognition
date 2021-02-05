@@ -14,11 +14,11 @@ Objective
 
 Team Members
 
-Ashokraj K
-Edara Rajkumar
-Garine Saikiran
-Sharon Bino
-Sohith Naidu
+Ashokraj K.
+Edara Rajkumar.
+Garine Saikiran.
+Sharon Bino.
+Sohith Naidu.
 
 
 
