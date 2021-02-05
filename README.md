@@ -18,7 +18,7 @@ Ashokraj K.
 Rajkumar Edara.
 Garine Saikiran.
 Sharon Bino.
-Sohith Naidu.
+Sohith G.
 
 
 
