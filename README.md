@@ -6,9 +6,9 @@ Face Mask detection is a Team project comprises of 5 members.
 
 Objective
 
-1. To Identify the person with face detection
-2. To verify the person wearing mask or not.
-2.1.Alert the person when the person not wearing mask
+1. To Identify the person with face detection.
+2. To verify if the person is wearing mask or not. <br>
+2.1.Alert the person when the person is not wearing mask. <br>
 2.2.Alert the person when the person feels drowsy while driving.
 
 
