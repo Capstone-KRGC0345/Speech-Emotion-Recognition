@@ -16,7 +16,7 @@ Team Members
 
 Ashokraj K.
 Rajkumar Edara.
-Garine Saikiran.
+Saikiran Garine.
 Sharon Bino.
 Sohith G.
 
