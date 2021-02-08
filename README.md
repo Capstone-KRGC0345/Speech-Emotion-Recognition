@@ -1,5 +1,5 @@
 # Sales Improvement and Mask Detection Model
-                                                              CSE445 – KC345
+# CSE445 – KC345
 # CAPSTONE PROJECT
 
 Topic : Sales Improvement and Mask detection Model 
