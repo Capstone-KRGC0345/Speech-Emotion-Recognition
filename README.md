@@ -1,19 +1,15 @@
-# Sales Improvement and Mask Detection Model
-# CSE445 – KC345
-# CAPSTONE PROJECT
-
-Topic : Sales Improvement and Mask detection Model 
-
-Objective :
-1. Detecting whether He/she wears Mask or not
-2. Alert the person when He/she does not wear the mask <br>
-3. Control the occupancy in certain area to avoid overcrowd <br>
-4. Detects the age and gender of the person for the improvement of sales based on their customers. <br>
-5. Finding regular customers to improve sales. <br>
-
-Novelty of the project:<br>
-In this current COVID-19 situation, it is essential to wear mask in outside. By ensuring the person whether he/she wears the mask or not will increase the safety of every individual. <br>
-From this project we can ensure the person social distancing and mask detection both at the same time. By occurring the information of the regular customer, age and gender will improve the sales. We can use this model in areas like Shopping mall, Theatres, Functions halls. <br>
+# SPEECH EMOTION RECOGNITION
+<b> DESCRIPTION:
+Speech Emotion Recognition is the act of attempting to recognize human emotion and affective states from speech. This is capitalizing on the fact that voice often reflects underlying emotion through tone and pitch.<br>
+<b>OBJECTIVES:
+<b>1. Familiarizing with Audio Features<br>
+Analysing different types of audio files and making it usable to train the model.<br>
+<b>2. Visualizing the audio pattern<br>
+Plotting the audio files and its spectrogram to categorize the different emotions.<br>
+<b>3. Finding the emotion of the given audio file.<br>
+Creating an array on the different waveform and suggesting the emotion with high probability.<br>
+<b>NOVELTY:<br>
+  Call centres employees never talk in the same manner, their way of pitching/talking to the customers changes with customers. Now, this does happen with common people too, but how is this relevant to call centres? Here is your answer, the employees recognize customers’ emotions from speech, so they can improve their service and convert more people. So, by this model, we can recognize the emotion from their speech.<br>
 
 
 Team Members
